@@ -1,4 +1,4 @@
-# PhoenixReact Boilerplane
+# PhoenixReact boilerplate
 
 > A Phoenix with React starter project.
 

@@ -5,7 +5,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   entry: [
-    path.join(__dirname, 'js/app.tsx'),
+    path.join(__dirname, 'js/app.js'),
     path.join(__dirname, 'scss/app.scss')
   ],
   output: {
